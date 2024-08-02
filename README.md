@@ -8,4 +8,4 @@ Meu nome é Beatriz, mas me chamem de MISTY ⭐
 
 . Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 🥰
 
-![](https://pin.it/3UAFUrCwF).
+**![(https://pin.it/3UAFUrCwF)]**
